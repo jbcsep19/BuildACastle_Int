@@ -6,5 +6,9 @@ public class Main {
 	// write your code here
         Castle disneyC = new Castle(); // this is the instantiated object of our class, Castle
 
+        disneyC.callTheCalvary();
+
+        disneyC.bringMoreWeapon(100);
+
     }
 }

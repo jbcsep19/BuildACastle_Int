@@ -47,8 +47,8 @@ public class Castle implements CastleMethods{ // this is our blueprint
 
     };
 
-    public void bringMoreWeapon(){
-        System.out.println("MORE SWORDS!");
+    public void bringMoreWeapon(int numWeapon){
+        System.out.println( "FETCH ME " + numWeapon + " MORE SWORDS!");
 
     };
 
